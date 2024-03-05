@@ -22,6 +22,7 @@ The terms for the FortiGate PAYG or BYOL image in the Azure Marketplace needs to
 The deploy.sh has been customised. The original file is shown :
 
 | **Parameter** | **Default Value** |
+|---|---|
 | location | AZURE_DEFAULTS_LOCATION or uksouth |
 | rg | AZURE_DEFAULTS_GROUP or rg-fortigate |
 | prefix | fortigate |
